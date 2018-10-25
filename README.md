@@ -5,7 +5,9 @@ You can find domain owner contacts and other valuable information.
 
 # IMAGE
 
+Download and save the hacker.jpg image.
 
+Change line 16 in whoistool.py to the directory where you saved the hacker.jpg image.
 
 # USAGE
 
