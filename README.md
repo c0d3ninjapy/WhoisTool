@@ -5,3 +5,10 @@ You can find domain owner contacts and other valuable information.
 
 # USAGE
 
+git clone https://github.com/c0d3ninjapy/WhoisTool.git
+
+cd whoistool
+
+python whoistool.py
+
+HAPPY CODING!!
