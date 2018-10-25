@@ -12,7 +12,8 @@ frame = Frame(root)
 text = Text()
 text1 = Text()
 
-image = Image.open("/home/c0deninja/Pictures/hacker.jpg") # change this line to the directory where you saved the hacker.jpg image
+# change this line to the directory where you saved the hacker.jpg image.
+image = Image.open("/home/c0deninja/Pictures/hacker.jpg")
 photo = ImageTk.PhotoImage(image)
 
 label = Label(root, image=photo)
